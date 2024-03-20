@@ -1,0 +1,38 @@
+{
+    "Image_1": {
+        "taille": [
+            600,
+            600
+        ],
+        "format": "PNG",
+        "orientation": "carre",
+        "tags": []
+    },
+    "Image_2": {
+        "taille": [
+            512,
+            512
+        ],
+        "format": "PNG",
+        "orientation": "carre",
+        "tags": []
+    },
+    "Image_3": {
+        "taille": [
+            512,
+            512
+        ],
+        "format": "PNG",
+        "orientation": "carre",
+        "tags": []
+    },
+    "Image_4": {
+        "taille": [
+            512,
+            512
+        ],
+        "format": "PNG",
+        "orientation": "carre",
+        "tags": []
+    }
+}
