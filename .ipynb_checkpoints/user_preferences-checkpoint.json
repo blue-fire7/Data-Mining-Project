@@ -1,0 +1,30 @@
+{
+    "old_user": {
+        "preferred_format": "JPEG",
+        "preferred_tag": "collection",
+        "preferred_width_category": "width < 1000",
+        "preferred_height_category": "height < 1000",
+        "preferred_color": "darkslategray"
+    },
+    "sport_user": {
+        "preferred_format": "JPEG",
+        "preferred_tag": "sport",
+        "preferred_width_category": "1000 <= width < 2000",
+        "preferred_height_category": "height < 1000",
+        "preferred_color": "gray"
+    },
+    "city_user": {
+        "preferred_format": "JPEG",
+        "preferred_tag": "city",
+        "preferred_width_category": "width >= 4000",
+        "preferred_height_category": "2000 <= height < 3000",
+        "preferred_color": "darkslategray"
+    },
+    "random_user": {
+        "preferred_format": "JPEG",
+        "preferred_tag": "city",
+        "preferred_width_category": "width >= 4000",
+        "preferred_height_category": "height < 1000",
+        "preferred_color": "black"
+    }
+}
